@@ -33,7 +33,7 @@ Mediante el uso de  Tinkerkad y proteus demostrar las medidas realizadas con el 
 *Procedimiento Experimental*
 
 **Mediciones de Intensidad**
-![image](https://user-images.githubusercontent.com/93794279/147009958-09b097b3-b50c-46cb-9104-99b27b13a48c.png)
+![1](https://user-images.githubusercontent.com/94129932/148811066-d4aca713-1c50-4330-ab91-c041f1ae3301.png)
 ![image](https://user-images.githubusercontent.com/93794279/147009971-08588851-3731-4582-ac47-02ee36c319ee.png)
 ![image](https://user-images.githubusercontent.com/93794279/147009989-c792795a-865d-44fe-a1d5-1517bee483a1.png)
 ![image](https://user-images.githubusercontent.com/93794279/147010006-0f2bf2a8-2b64-43be-b21b-6c058413d3e3.png)
