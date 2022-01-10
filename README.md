@@ -1,2 +1,2 @@
-# Laboratorio-5
+# INFORME DE LABORATORIO-5
 Informe
