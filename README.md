@@ -31,20 +31,25 @@ Mediante el uso de  Tinkerkad y proteus demostrar las medidas realizadas con el 
 
 
 *Procedimiento Experimental*
+**Armamos el circuito**
+![image](https://user-images.githubusercontent.com/93794279/148846013-079772c6-5470-4455-9822-aaadae402c6e.png)
+**Voltaje del ciruito base**
+![image](https://user-images.githubusercontent.com/93794279/148846184-5d360d17-50eb-484f-acf3-fab59c529feb.png)
+
+**Corriente circuito base**
+![image](https://user-images.githubusercontent.com/93794279/148846088-657a2003-3941-4ff0-8f5b-c257d16f94bd.png)
+
+
+**Medimos la resitencia de thevenin**
+![image](https://user-images.githubusercontent.com/93794279/148845804-0b6f2b49-4f9b-4b68-8cf9-53c929ca427c.png)
+
+
+**Medimos el voltaje de thevenin**
+![image](https://user-images.githubusercontent.com/93794279/148845720-ecd81dbf-8536-4fc4-aa60-cacd45914f0b.png)
 
 **Circuito equivalente de thevenin**
 Aqui podemos observar el voltaje y correinte equivalentes
 ![image](https://user-images.githubusercontent.com/93794279/148843321-cfffa504-4863-4601-a24a-9e3d4d3de05b.png)
-
-
-*Procedimiento Tehorico*
-
-[![Imagen1.png](https://i.postimg.cc/8CGyrYxM/Imagen1.png)](https://postimg.cc/pm0QwsWL)
-
-[![Imagen2.png](https://i.postimg.cc/j2zFnrZV/Imagen2.png)](https://postimg.cc/FkHZw8MG)
-
-[![Imagen3.png](https://i.postimg.cc/B6hxh7b8/Imagen3.png)](https://postimg.cc/phFhrZDx)
-
 
 ## 4. RESPUESTA A INTERROGANTES Y CÀLCULO DEL ERROR
 
@@ -56,7 +61,7 @@ Aqui podemos observar el voltaje y correinte equivalentes
 
 ## 5. VIDEO
 
-https://www.youtube.com/watch?v=SYIc9yDnH1w
+
 
 ## 6. CONCLUSIONES
 - Al realizar la practica hemos llegado a la conclusión de que al utilizar el teorema podemos trabajar con circutos con mas de una fuente de carga conectada a el. pues estos pueden ser separados y al momento de sumarlos se puede dar cuenta que ay una precisión muy grande entre ellos.
