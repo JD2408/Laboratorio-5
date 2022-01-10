@@ -57,9 +57,10 @@ Armamos el circuito base
 ## 4. RESPUESTA A INTERROGANTES Y CÀLCULO DEL ERROR
 
 ***Tabla de Intensidad***
+
 [![Imagen4.png](https://i.postimg.cc/jj80RNSp/Imagen4.png)](https://postimg.cc/06JHfzmn)
 
-***Cálculo de Error***
+
 
 ## 5. VIDEO
 
