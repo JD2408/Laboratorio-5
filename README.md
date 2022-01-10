@@ -47,23 +47,11 @@ Armamos el circuito base
 
 *Procedimiento del Cálculo*
 
-**Cálculo de la intensidad**
-![image](https://user-images.githubusercontent.com/93794279/147007976-2682c2d7-9345-43e0-8484-71b8d7c6a889.png)
-![image](https://user-images.githubusercontent.com/93794279/147008038-9e9e235d-c4e2-45c1-b3f4-f0993d6d2b56.png)
-![image](https://user-images.githubusercontent.com/93794279/147011619-db2f8554-e46b-4b92-aa24-55265fc64eb9.png)
+[![Imagen1.png](https://i.postimg.cc/8CGyrYxM/Imagen1.png)](https://postimg.cc/pm0QwsWL)
 
-**Cálculo del voltaje**
+[![Imagen2.png](https://i.postimg.cc/j2zFnrZV/Imagen2.png)](https://postimg.cc/FkHZw8MG)
 
-[![Imagen1.png](https://i.postimg.cc/GhBNnCbL/Imagen1.png)](https://postimg.cc/nCJTqNsg)
-
-
-[![Imagen2.png](https://i.postimg.cc/Gpbqtwns/Imagen2.png)](https://postimg.cc/fVgxqPLw)
-
-
-[![Imagen3.png](https://i.postimg.cc/TwBRfc5h/Imagen3.png)](https://postimg.cc/YGfcxY3w)
-
-
-[![Imagen4.png](https://i.postimg.cc/0j9V6Tw4/Imagen4.png)](https://postimg.cc/ygrmtrnh)
+[![Imagen3.png](https://i.postimg.cc/B6hxh7b8/Imagen3.png)](https://postimg.cc/phFhrZDx)
 
 
 ## 4. RESPUESTA A INTERROGANTES Y CÀLCULO DEL ERROR
