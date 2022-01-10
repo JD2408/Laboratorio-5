@@ -15,6 +15,7 @@ Mediante el uso de  Tinkerkad y proteus demostrar las medidas realizadas con el 
 
 ## 2. MARCO TEÓRICO
 
+![Diagrama en blanco (9)](https://user-images.githubusercontent.com/94129932/148781896-13b2b60e-d5c7-45ef-8cf3-f65e3b38f14d.png)
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
