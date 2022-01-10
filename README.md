@@ -32,41 +32,38 @@ Mediante el uso de  Tinkerkad y proteus demostrar las medidas realizadas con el 
 
 *Procedimiento Experimental*
 
+**Mediciones de Intensidad**
+Armamos el circuito base
+![1](https://user-images.githubusercontent.com/94129932/148811066-d4aca713-1c50-4330-ab91-c041f1ae3301.png)
+![image](https://user-images.githubusercontent.com/93794279/147009971-08588851-3731-4582-ac47-02ee36c319ee.png)
+![image](https://user-images.githubusercontent.com/93794279/147009989-c792795a-865d-44fe-a1d5-1517bee483a1.png)
+![image](https://user-images.githubusercontent.com/93794279/147010006-0f2bf2a8-2b64-43be-b21b-6c058413d3e3.png)
 
-**Armamos el circuito base**
-![image](https://user-images.githubusercontent.com/93794279/148830070-fb4151ae-0045-4129-a0a5-12bfe6c60f65.png)
+**Mediciones de voltaje**
 
-**Tenemos el voltaje del circuito original**
-![image](https://user-images.githubusercontent.com/93794279/148830303-65fda099-eb7f-4342-83eb-fe4311988aed.png)
+[![Imagen6.png](https://i.postimg.cc/G2CMDQh8/Imagen6.png)](https://postimg.cc/94Lt5y9C)
+[![Imagen7.png](https://i.postimg.cc/rsbZDLdc/Imagen7.png)](https://postimg.cc/K3PDWwrs)
+[![Imagen8.png](https://i.postimg.cc/PrsRndkz/Imagen8.png)](https://postimg.cc/jCcXz02L)
 
-**Vemos la corriente del circuito original**
-![image](https://user-images.githubusercontent.com/93794279/148830645-ca3a8378-232c-4338-90c0-e883ae1468aa.png)
+*Procedimiento del Cálculo*
 
-**Ahora medimos la resistencia de thevenin**
-![image](https://user-images.githubusercontent.com/93794279/148831188-5bcf2c99-46f1-4cb3-9569-0dc30002f5e7.png)
+[![Imagen1.png](https://i.postimg.cc/8CGyrYxM/Imagen1.png)](https://postimg.cc/pm0QwsWL)
 
-**Medimos el voltaje de thevenin**
-![image](https://user-images.githubusercontent.com/93794279/148831461-5e320f82-e069-4368-8cbb-304ac12ef4f3.png)
+[![Imagen2.png](https://i.postimg.cc/j2zFnrZV/Imagen2.png)](https://postimg.cc/FkHZw8MG)
 
-**Aqui tenemos el circuito equivalente de thevenin**
-
-Voltaje y corriente
-![image](https://user-images.githubusercontent.com/93794279/148832254-954396c9-b918-4920-b2bf-dcbbad481e3d.png)
-
-
-
+[![Imagen3.png](https://i.postimg.cc/B6hxh7b8/Imagen3.png)](https://postimg.cc/phFhrZDx)
 
 
 ## 4. RESPUESTA A INTERROGANTES Y CÀLCULO DEL ERROR
 
 ***Tabla de Intensidad***
-![image](https://user-images.githubusercontent.com/93794279/147010108-fd826e9e-c7b5-4c6a-81df-f5a9faa9601a.png)
+[![Imagen4.png](https://i.postimg.cc/jj80RNSp/Imagen4.png)](https://postimg.cc/06JHfzmn)
 
 ***Cálculo de Error***
 
 ## 5. VIDEO
 
-https://youtu.be/Bi5pBW_bZQ4
+
 
 ## 6. CONCLUSIONES
 - Al realizar la practica hemos llegado a la conclusión de que al utilizar el teorema podemos trabajar con circutos con mas de una fuente de carga conectada a el. pues estos pueden ser separados y al momento de sumarlos se puede dar cuenta que ay una precisión muy grande entre ellos.
@@ -74,9 +71,6 @@ https://youtu.be/Bi5pBW_bZQ4
 - Se concluye que el teorema de superposición es válido, la tensión entre los extremos de un elemento en un circuito lineal es la suma algebraica de las tensiones a través de ese elemento debido a que cada fuente independiente actúa sola.
 
 ## 7. BIBLIOGRAFÍA
-1. carakenio. (2019, November 10). Teorema de Thevenin – Análisis de circuitos eléctricos. dademuchconnection. https://dademuch.com/2019/11/10/teorema-de-thevenin-analisis-de-circuitos-electricos/
-
-2. M, S. L., T, T. M., & F, H. S. (Eds.). (2013). Thevenin’s Theorem. Betascript Publishing.
-
-
+1. Superposición. (n.d.). Khan Academy. Retrieved December 21, 2021, from https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition
+2. carakenio. (2019, November 8). Principio de superposición – Análisis de circuitos eléctricos. dademuchconnection. https://dademuch.com/2019/11/08/principio-de-superposicion-analisis-de-circuitos-electricos/
 
