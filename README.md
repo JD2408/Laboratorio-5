@@ -33,6 +33,7 @@ Mediante el uso de  Tinkerkad y proteus demostrar las medidas realizadas con el 
 *Procedimiento Experimental*
 **Armamos el circuito**
 ![image](https://user-images.githubusercontent.com/93794279/148846013-079772c6-5470-4455-9822-aaadae402c6e.png)
+
 **Voltaje del ciruito base**
 ![image](https://user-images.githubusercontent.com/93794279/148846184-5d360d17-50eb-484f-acf3-fab59c529feb.png)
 
