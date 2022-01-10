@@ -6,26 +6,28 @@
  ## 1. OBJETIVOS
 ***Objetivo General***
 
-Aprender acerca del metodo de superposicion para medicion de circuitos
+Aprender y dominar los conocimiento acerca del tehorema de Thevenin con el uso de simuladores.
 
 ***Objetivos Específicos***
 
-Utilizar el metodo de superposicion para la medicion del circuito y comproboar mediante la simulacion del mismo en tonkerkad con los debidos componentes 
+Mediante el uso de  Tinkerkad y proteus demostrar las medidas realizadas con el metodo de Thevenin
 
 
 ## 2. MARCO TEÓRICO
-[![Imagen5.png](https://i.postimg.cc/N0WDcxrC/Imagen5.png)](https://postimg.cc/McmV0V51)
+
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 *Materiales*
 1) 2 Fuente de Voltaje de C.D.
 2) 2 Multímetros Digitales
-3) 1 Resistor de 1 kΩ
-4) 1 Resistor de 2.2 kΩ
-5) 1 Resistor de 820 Ω
-6) 1 Resistor de 470 Ω
-7) 1 Protoboard
+3) 1 Resistor de 560 Ω
+4) 1 Resistor de 330 Ω
+5) 1 Resistor de 100 Ω
+6) 1 Resistor de 1 kΩ
+7) 1 Potenciómetro de precisión 1 kΩ
+8) 1 Protoboard
+
 
 *Procedimiento Experimental*
 
