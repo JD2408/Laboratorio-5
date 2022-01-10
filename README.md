@@ -36,6 +36,16 @@ Mediante el uso de  Tinkerkad y proteus demostrar las medidas realizadas con el 
 Aqui podemos observar el voltaje y correinte equivalentes
 ![image](https://user-images.githubusercontent.com/93794279/148843321-cfffa504-4863-4601-a24a-9e3d4d3de05b.png)
 
+
+*Procedimiento Tehorico*
+
+[![Imagen1.png](https://i.postimg.cc/8CGyrYxM/Imagen1.png)](https://postimg.cc/pm0QwsWL)
+
+[![Imagen2.png](https://i.postimg.cc/j2zFnrZV/Imagen2.png)](https://postimg.cc/FkHZw8MG)
+
+[![Imagen3.png](https://i.postimg.cc/B6hxh7b8/Imagen3.png)](https://postimg.cc/phFhrZDx)
+
+
 ## 4. RESPUESTA A INTERROGANTES Y CÀLCULO DEL ERROR
 
 ***Tabla de Intensidad***
