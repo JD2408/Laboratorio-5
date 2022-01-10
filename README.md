@@ -46,7 +46,7 @@ Aqui podemos observar el voltaje y correinte equivalentes
 
 ## 5. VIDEO
 
-
+https://www.youtube.com/watch?v=SYIc9yDnH1w
 
 ## 6. CONCLUSIONES
 - Al realizar la practica hemos llegado a la conclusión de que al utilizar el teorema podemos trabajar con circutos con mas de una fuente de carga conectada a el. pues estos pueden ser separados y al momento de sumarlos se puede dar cuenta que ay una precisión muy grande entre ellos.
