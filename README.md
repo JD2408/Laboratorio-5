@@ -33,6 +33,7 @@ Mediante el uso de  Tinkerkad y proteus demostrar las medidas realizadas con el 
 *Procedimiento Experimental*
 
 **Mediciones de Intensidad**
+Armamos el circuito base
 ![1](https://user-images.githubusercontent.com/94129932/148811066-d4aca713-1c50-4330-ab91-c041f1ae3301.png)
 ![image](https://user-images.githubusercontent.com/93794279/147009971-08588851-3731-4582-ac47-02ee36c319ee.png)
 ![image](https://user-images.githubusercontent.com/93794279/147009989-c792795a-865d-44fe-a1d5-1517bee483a1.png)
