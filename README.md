@@ -32,27 +32,9 @@ Mediante el uso de  Tinkerkad y proteus demostrar las medidas realizadas con el 
 
 *Procedimiento Experimental*
 
-**Mediciones de Intensidad**
-Armamos el circuito base
-![1](https://user-images.githubusercontent.com/94129932/148811066-d4aca713-1c50-4330-ab91-c041f1ae3301.png)
-![image](https://user-images.githubusercontent.com/93794279/147009971-08588851-3731-4582-ac47-02ee36c319ee.png)
-![image](https://user-images.githubusercontent.com/93794279/147009989-c792795a-865d-44fe-a1d5-1517bee483a1.png)
-![image](https://user-images.githubusercontent.com/93794279/147010006-0f2bf2a8-2b64-43be-b21b-6c058413d3e3.png)
-
-**Mediciones de voltaje**
-
-[![Imagen6.png](https://i.postimg.cc/G2CMDQh8/Imagen6.png)](https://postimg.cc/94Lt5y9C)
-[![Imagen7.png](https://i.postimg.cc/rsbZDLdc/Imagen7.png)](https://postimg.cc/K3PDWwrs)
-[![Imagen8.png](https://i.postimg.cc/PrsRndkz/Imagen8.png)](https://postimg.cc/jCcXz02L)
-
-*Procedimiento del Cálculo*
-
-[![Imagen1.png](https://i.postimg.cc/8CGyrYxM/Imagen1.png)](https://postimg.cc/pm0QwsWL)
-
-[![Imagen2.png](https://i.postimg.cc/j2zFnrZV/Imagen2.png)](https://postimg.cc/FkHZw8MG)
-
-[![Imagen3.png](https://i.postimg.cc/B6hxh7b8/Imagen3.png)](https://postimg.cc/phFhrZDx)
-
+**Circuito equivalente de thevenin**
+Aqui podemos observar el voltaje y correinte equivalentes
+![image](https://user-images.githubusercontent.com/93794279/148843321-cfffa504-4863-4601-a24a-9e3d4d3de05b.png)
 
 ## 4. RESPUESTA A INTERROGANTES Y CÀLCULO DEL ERROR
 
@@ -67,10 +49,16 @@ Armamos el circuito base
 
 
 ## 6. CONCLUSIONES
-- Esta práctica nos permitió visualizar tanto física como experimental y matemáticamente como se emplea el Teorema de Thevenin, el cual consiste en que el valor de las resistencias puede ser reemplazada o sustituida por otra fuente de tensión.
-- Eh un circuito al aplicar al aplicar el teorema de thevenin para calcular la resistencia se debe hacer un cortocircuito a las fuentes de voltaje y para las fuentes de corriente se debe reemplazar un circuito abierto.
+- Al realizar la practica hemos llegado a la conclusión de que al utilizar el teorema podemos trabajar con circutos con mas de una fuente de carga conectada a el. pues estos pueden ser separados y al momento de sumarlos se puede dar cuenta que ay una precisión muy grande entre ellos.
+- Al final en las tablas de comparación se plasmaron los resultados y se obtuvo un porcentaje de error que en la mayoría de los parámetros fue satisfactorio, teniendo en cuenta los valores medidos.
+- Se concluye que el teorema de superposición es válido, la tensión entre los extremos de un elemento en un circuito lineal es la suma algebraica de las tensiones a través de ese elemento debido a que cada fuente independiente actúa sola.
 
 ## 7. BIBLIOGRAFÍA
-1. Superposición. (n.d.). Khan Academy. Retrieved December 21, 2021, from https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition
-2. carakenio. (2019, November 8). Principio de superposición – Análisis de circuitos eléctricos. dademuchconnection. https://dademuch.com/2019/11/08/principio-de-superposicion-analisis-de-circuitos-electricos/
+1. carakenio. (2019, November 10). Teorema de Thevenin – Análisis de circuitos eléctricos. dademuchconnection. https://dademuch.com/2019/11/10/teorema-de-thevenin-analisis-de-circuitos-electricos/
+
+
+2. M, S. L., T, T. M., & F, H. S. (Eds.). (2013). Thevenin’s Theorem. Betascript Publishing.
+
+
+
 
